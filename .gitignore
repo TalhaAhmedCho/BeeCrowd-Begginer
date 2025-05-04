@@ -1,0 +1,6 @@
+# VS Code settings
+.vscode/
+
+*.exe
+*.o
+*.out
