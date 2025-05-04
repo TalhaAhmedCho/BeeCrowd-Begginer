@@ -1,6 +1,12 @@
 # VS Code settings
 .vscode/
+.cph/
 
 *.exe
 *.o
 *.out
+
+# Ignore input and output files
+input.txt
+output.txt
+
