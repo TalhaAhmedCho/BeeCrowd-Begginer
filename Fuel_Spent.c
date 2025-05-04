@@ -9,9 +9,8 @@ int main() {
   scanf("%d", &speed);
   distance = time * speed;
   fuelSpent = distance / 12.0;
-  
-  printf("%.3f\n", fuelSpent);
 
+  printf("%.3f\n", fuelSpent);
  
   return 0;
 }
