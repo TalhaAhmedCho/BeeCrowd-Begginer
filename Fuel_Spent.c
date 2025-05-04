@@ -11,6 +11,6 @@ int main() {
   fuelSpent = distance / 12.0;
 
   printf("%.3f\n", fuelSpent);
- 
+  
   return 0;
 }
