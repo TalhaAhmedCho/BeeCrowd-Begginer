@@ -16,4 +16,6 @@
 - 1014 - Consumption - [Question](https://judge.beecrowd.com/en/problems/view/1014) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Consumption.c)
 - 1015 - Distance Between Two Points - [Question](https://judge.beecrowd.com/en/problems/view/1015) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Distance_Between_Two_Points.c)
 - 1016 - Distance - [Question](https://judge.beecrowd.com/en/problems/view/1016) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Distance.c)
+- 1017 - Fuel Spent - [Question](https://judge.beecrowd.com/en/problems/view/1017) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Fuel_Spent.c)
+- 1018 - Banknotes - [Question](https://judge.beecrowd.com/en/problems/view/1018) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Banknotes.c)
 -  -  - [Question]() | [Answer]()
