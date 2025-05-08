@@ -29,5 +29,6 @@ int main() {
     printf("Total: R$ %.2f\n", t5);
   }
 
+  
   return 0;
 }
