@@ -29,4 +29,6 @@
 - 1043 - Triangle - [Question](https://judge.beecrowd.com/en/problems/view/1043) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Triangle.c)
 - 1044 - Multiples - [Question](https://judge.beecrowd.com/en/problems/view/1044) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Multiples.c)
 -  -  - [Question]() | [Answer]()
+- 1050 - 	DDD - [Question](https://judge.beecrowd.com/en/problems/view/1050) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/DDD.c)
 - 1059 - Even Numbers - [Question](https://judge.beecrowd.com/en/problems/view/1059) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Even_Numbers.c)
+-  -  - [Question]() | [Answer]()
