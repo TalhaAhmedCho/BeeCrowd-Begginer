@@ -25,6 +25,7 @@
 - 1036 - Bhaskara's Formula - [Question](https://judge.beecrowd.com/en/problems/view/1036) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Bhaskara_s_Formula.c)
 - 1037 - Interval - [Question](https://judge.beecrowd.com/en/problems/view/1037) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Interval.c)
 - 1038 - Snack - [Question](https://judge.beecrowd.com/en/problems/view/1038) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Snack.c)
+- 1040 - Average 3 - [Question](https://judge.beecrowd.com/en/problems/view/1040) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Average_3.c)
 -  -  - [Question]() | [Answer]()
 - 1043 - Triangle - [Question](https://judge.beecrowd.com/en/problems/view/1043) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Triangle.c)
 - 1044 - Multiples - [Question](https://judge.beecrowd.com/en/problems/view/1044) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Multiples.c)
