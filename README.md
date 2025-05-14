@@ -27,7 +27,7 @@
 - 1038 - Snack - [Question](https://judge.beecrowd.com/en/problems/view/1038) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Snack.c)
 - 1040 - Average 3 - [Question](https://judge.beecrowd.com/en/problems/view/1040) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Average_3.c)
 - 1041 - Coordinates of a Point - [Question](https://judge.beecrowd.com/en/problems/view/1041) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Coordinates_of_a_Point.c)
--  -  - [Question]() | [Answer]()
+- 1042 - 	Simple Sort - [Question](https://judge.beecrowd.com/en/problems/view/1042) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Simple_Sort.c)
 - 1043 - Triangle - [Question](https://judge.beecrowd.com/en/problems/view/1043) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Triangle.c)
 - 1044 - Multiples - [Question](https://judge.beecrowd.com/en/problems/view/1044) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Multiples.c)
 -  -  - [Question]() | [Answer]()
