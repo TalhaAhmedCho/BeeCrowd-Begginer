@@ -32,6 +32,7 @@
 - 1044 - Multiples - [Question](https://judge.beecrowd.com/en/problems/view/1044) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Multiples.c)
 -  -  - [Question]() | [Answer]()
 - 1046 - 	Game Time - [Question](https://judge.beecrowd.com/en/problems/view/1046) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Game_Time.c)
+- 1047 - Game Time with Minutes - [Question](https://judge.beecrowd.com/en/problems/view/1047) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Game_Time_with_Minutes.c)
 -  -  - [Question]() | [Answer]()
 - 1050 - 	DDD - [Question](https://judge.beecrowd.com/en/problems/view/1050) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/DDD.c)
 - 1052 - Month - [Question](https://judge.beecrowd.com/en/problems/view/1052) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Month.c)
