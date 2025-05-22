@@ -45,4 +45,5 @@
 -  -  - [Question]() | [Answer]()
 - 1067 - Odd Numbers - [Question](https://judge.beecrowd.com/en/problems/view/1067) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Odd_Numbers.c)
 - 1070 - 	Six Odd Numbers - [Question](https://judge.beecrowd.com/en/problems/view/1070) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Six_Odd_Numbers.c)
+- 1071 - Sum of Consecutive Odd Numbers I - [Question](https://judge.beecrowd.com/en/problems/view/1071) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Sum_of_Consecutive_Odd_Numbers_I.c)
 -  -  - [Question]() | [Answer]()
