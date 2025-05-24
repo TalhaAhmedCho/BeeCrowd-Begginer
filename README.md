@@ -36,6 +36,7 @@
 - 1048 - Salary Increase - [Question](https://judge.beecrowd.com/en/problems/view/1048) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Salary_Increase.c)
 - 1049 - Animal - [Question](https://judge.beecrowd.com/en/problems/view/1049) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Animal.c)
 - 1050 - DDD - [Question](https://judge.beecrowd.com/en/problems/view/1050) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/DDD.c)
+- 1051 - Taxs - [Question](https://judge.beecrowd.com/en/problems/view/1051) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Taxes.c)
 - 1052 - Month - [Question](https://judge.beecrowd.com/en/problems/view/1052) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Month.c)
 -  -  - [Question]() | [Answer]()
 - 1059 - Even Numbers - [Question](https://judge.beecrowd.com/en/problems/view/1059) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Even_Numbers.c)
