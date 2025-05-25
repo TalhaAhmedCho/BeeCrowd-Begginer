@@ -41,7 +41,7 @@
 -  -  - [Question]() | [Answer]()
 - 1059 - Even Numbers - [Question](https://judge.beecrowd.com/en/problems/view/1059) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Even_Numbers.c)
 - 1060 - Positive Numbers - [Question](https://judge.beecrowd.com/en/problems/view/1060) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Positive_Numbers.c)
--  -  - [Question]() | [Answer]()
+- 1061 - Event Time - [Question](https://judge.beecrowd.com/en/problems/view/1061) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Event_Time.c)
 - 1064 - Positives and Average - [Question](https://judge.beecrowd.com/en/problems/view/1064) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Positives_and_Average.c)
 - 1065 - Even Between five Numbers - [Question](https://judge.beecrowd.com/en/problems/view/1065) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Even_Between_five_Numbers.c)
 -  -  - [Question]() | [Answer]()
