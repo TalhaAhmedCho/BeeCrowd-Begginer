@@ -49,6 +49,6 @@
 - 1071 - Sum of Consecutive Odd Numbers I - [Question](https://judge.beecrowd.com/en/problems/view/1071) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Sum_of_Consecutive_Odd_Numbers_I.c)
 - 1072 - Interval 2 - [Question](https://judge.beecrowd.com/en/problems/view/1072) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Interval_2.c)
 - 1073 - Even Square - [Question](https://judge.beecrowd.com/en/problems/view/1073) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Even_Square.c)
--  -  - [Question]() | [Answer]()
+- 1074 - Even or Odd - [Question](https://judge.beecrowd.com/en/problems/view/1074) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Even_or_Odd.c)
 -  -  - [Question]() | [Answer]()
 -  -  - [Question]() | [Answer]()
