@@ -51,4 +51,6 @@
 - 1073 - Even Square - [Question](https://judge.beecrowd.com/en/problems/view/1073) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Even_Square.c)
 - 1074 - Even or Odd - [Question](https://judge.beecrowd.com/en/problems/view/1074) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Even_or_Odd.c)
 - 1075 - Remaining 2 - [Question](https://judge.beecrowd.com/en/problems/view/1075) | [Answer](https://judge.beecrowd.com/en/problems/view/1075)
+- 1078 - Multiplication Table - [Question](https://judge.beecrowd.com/en/problems/view/1078) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Multiplication_Table.c)
+-  -  - [Question]() | [Answer]()
 -  -  - [Question]() | [Answer]()
