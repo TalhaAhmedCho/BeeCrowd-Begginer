@@ -56,5 +56,6 @@
 - 1080 - Highest and Position - [Question](https://judge.beecrowd.com/en/problems/view/1080) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Highest_and_Position.c)
 - 1094 - Experiments - [Question](https://judge.beecrowd.com/en/problems/view/1094) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Experiments.c)
 - 1095 - Sequence IJ 1 - [Question](https://judge.beecrowd.com/en/problems/view/1095) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Sequence_IJ_1.c)
+- 1096 - Sequence IJ 2 - [Question](https://judge.beecrowd.com/en/problems/view/1096) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Sequence_IJ_2.c)
 -  -  - [Question]() | [Answer]()
 -  -  - [Question]() | [Answer]()
