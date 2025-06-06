@@ -57,5 +57,6 @@
 - 1094 - Experiments - [Question](https://judge.beecrowd.com/en/problems/view/1094) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Experiments.c)
 - 1095 - Sequence IJ 1 - [Question](https://judge.beecrowd.com/en/problems/view/1095) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Sequence_IJ_1.c)
 - 1096 - Sequence IJ 2 - [Question](https://judge.beecrowd.com/en/problems/view/1096) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Sequence_IJ_2.c)
+- 1097 - Sequence IJ 3 - [Question](https://judge.beecrowd.com/en/problems/view/1097) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Sequence_IJ_3.c)
 -  -  - [Question]() | [Answer]()
 -  -  - [Question]() | [Answer]()
