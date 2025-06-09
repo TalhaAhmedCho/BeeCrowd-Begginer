@@ -60,5 +60,7 @@
 - 1097 - Sequence IJ 3 - [Question](https://judge.beecrowd.com/en/problems/view/1097) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Sequence_IJ_3.c)
 - 1098 - Sequence IJ 4 - [Question](https://judge.beecrowd.com/en/problems/view/1098) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Sequence_IJ_4.c)
 - 1099 - Sum of Consecutive Odd Numbers II - [Question](https://judge.beecrowd.com/en/problems/view/1099) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Sum_of_Consecutive_Odd_Numbers_II.c)
+- 1101 - Sequence of Numbers and Sum - [Question](https://judge.beecrowd.com/en/problems/view/1101) | [Answer](https://github.com/TalhaAhmedCho/BeeCrowd-Begginer/blob/main/Sequence_of_Numbers_and_Sum.c)
+-  -  - [Question]() | [Answer]()
 -  -  - [Question]() | [Answer]()
 -  -  - [Question]() | [Answer]()
